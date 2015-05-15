@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://anhtieu.github.io
+title: Anh Tieu's Blog
+email: mr.anhtieu@live.com
+author: Anh Tieu
+description: Simple. Realistic.
+paginate: 3
+google_analytics: 
